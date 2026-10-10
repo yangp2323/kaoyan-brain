@@ -17,3 +17,4 @@
 | **-mit- / -miss-** | 送、发、发射 | send, cast | [Roots/mit/](./mit/README.md) |
 | **-cur- / -curs-** | 跑、流动、发生 | run, happen | [Roots/cur/](./cur/README.md) |
 | **-gen- / -gener-** | 生、产生、起源 | birth, produce | [Roots/gen/](./gen/README.md) |
+| **-voc- / -vok-** | 呼叫、称呼、声音 | call, voice | [Roots/voc/](./voc/README.md) |

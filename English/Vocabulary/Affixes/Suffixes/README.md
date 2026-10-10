@@ -39,6 +39,9 @@
   - **freedom**（自由）、**wisdom**（智慧）、**kingdom**（王国）
 - **`-ism`**（主义、学说、特征现象）：
   - **realism**（现实主义）、**optimism**（乐观主义）、**criticism**（批评）
+- **`-ary`**（与……相关的集合、场所或事物）：
+  - **vocabulary** *n.* 词汇、词汇表（voc + -abul- + -ary，可称呼之物的集合）
+  - **dictionary**（词典）、**library**（图书馆）、**salary**（薪水）
 
 ---
 
