@@ -20,6 +20,7 @@
 - [`Roots/mit/`](./Roots/mit/README.md)：送、发、发射（transmit, admit, permit, emit, submit, dismiss...）
 - [`Roots/cur/`](./Roots/cur/README.md)：跑、流动、发生（occur, currency, current, recur, precursor...）
 - [`Roots/gen/`](./Roots/gen/README.md)：生、产生、起源（generate, genuine, genius, ingenious...）
+- [`Roots/voc/`](./Roots/voc/README.md)：呼叫、称呼、声音（vocabulary, vocal, vocation, advocate, evoke...）
 
 ---
 
